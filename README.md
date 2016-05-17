@@ -1,2 +1,2 @@
 # PassDataByDelegate
-控制器直接使用代理传值
+控制器之间使用代理传值
